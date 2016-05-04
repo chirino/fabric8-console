@@ -26,6 +26,9 @@
 /// <reference path="d.ts/main/ts/mainPlugin.d.ts"/>
 /// <reference path="d.ts/main/ts/about.d.ts"/>
 /// <reference path="d.ts/main/ts/navbar.d.ts"/>
+/// <reference path="d.ts/profiles/ts/profilesNavigation.d.ts"/>
+/// <reference path="d.ts/profiles/ts/profilesPlugin.d.ts"/>
+/// <reference path="d.ts/profiles/ts/view.d.ts"/>
 /// <reference path="d.ts/wiki/ts/wikiHelpers.d.ts"/>
 /// <reference path="d.ts/wiki/ts/wikiPlugin.d.ts"/>
 /// <reference path="d.ts/wiki/ts/camel.d.ts"/>
